@@ -1,0 +1,13 @@
+
+--------------------------Result----------------------------
+Roll Number         :12
+Name                :mamta
+Subject 1           :java
+Marks of Subject 1  :55.000000
+Subject 2           :c
+Marks of Subject 2  :75.000000
+Subject 3           :python
+Marks of Subject 3  :45.000000
+Total               :175.000000
+Avg                 :58.333332
+Grade               :D

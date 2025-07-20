@@ -45,6 +45,7 @@ int main()
             else
             amt = units * 8;
     }
+    amt=amt+156;
     printf("Amount is:%2f",amt);
               
                 return 0;
